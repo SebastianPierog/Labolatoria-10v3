@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z10-NOTIFY", "Z10-NOTIFY\Z10-NOTIFY.csproj", "{27877B6F-91F4-4872-952E-F9907C9D2E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27877B6F-91F4-4872-952E-F9907C9D2E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27877B6F-91F4-4872-952E-F9907C9D2E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27877B6F-91F4-4872-952E-F9907C9D2E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27877B6F-91F4-4872-952E-F9907C9D2E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D12EF9B-7C6E-4250-90FD-228191C82350}
+	EndGlobalSection
+EndGlobal
